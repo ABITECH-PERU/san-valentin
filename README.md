@@ -10,6 +10,13 @@
 ## 📚 Descripción
 Este proyecto es una aplicación web interactiva creada con **Vue 3 + Vite**, diseñada para sorprender a esa persona especial en San Valentín. ❤️🌹
 
+### ✨ Personalización de nombres
+
+Puedes enviar un enlace personalizado con el nombre de la persona a la que deseas sorprender. Solo agrega el nombre después de la URL, separando nombres y apellidos con un guion `-`. Ejemplo:
+
+🔗 `https://love.abitech.dev/abimael-fernandez` → Mostrará el nombre **Abimael Fernández** en la vista.
+
+
 ## 🌈 Características
 - 💖 Animaciones de confeti.
 - 🎭 Diseño responsivo y encantador.
@@ -18,12 +25,6 @@ Este proyecto es una aplicación web interactiva creada con **Vue 3 + Vite**, di
 - 🎁 Compartible en redes sociales con meta etiquetas optimizadas.
 - 🏡 Redirección automática a la página de inicio si la URL no es válida.
 
-
-### ✨ Personalización de nombres
-
-Puedes enviar un enlace personalizado con el nombre de la persona a la que deseas sorprender. Solo agrega el nombre después de la URL, separando nombres y apellidos con un guion `-`. Ejemplo:
-
-🔗 `https://love.abitech.dev/abimael-fernandez` → Mostrará el nombre **Abimael Fernández** en la vista.
 
 ## 🔧 Tecnologías Utilizadas
 - **Vue 3** + Composition API
