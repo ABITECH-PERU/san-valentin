@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abitech.dev/sitemap.xml
