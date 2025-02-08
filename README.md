@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://love.abitech.dev" target="_blank"><img src="https://love.abitech.dev/img/love.png" width="100" alt="Laravel Logo"></a></p>
+<p align="left"><a href="https://love.abitech.dev" target="_blank"><img src="https://love.abitech.dev/img/love.png" width="100" alt="Laravel Logo"></a></p>
 
 ## 💖 Sorpresa de San Valentín
 
